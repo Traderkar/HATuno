@@ -952,10 +952,10 @@ body{
 }
 
 .main-logo{
-    background-image:url(../images/logo-dark.png);
-    width:80px;
+    background-image:url(../images/logohat.png);
+    width:103px;
     height:21px;
-    background-size:80px 21px;
+    background-size:103px 21px;
     background-repeat:no-repeat;
     margin-top:25px;
     margin-bottom:30px;
